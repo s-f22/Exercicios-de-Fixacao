@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ESTRUTURAS CONDICIONAIS - 02/1.0.0": {
+        "runtime": {
+          "ESTRUTURAS CONDICIONAIS - 02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ESTRUTURAS CONDICIONAIS - 02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

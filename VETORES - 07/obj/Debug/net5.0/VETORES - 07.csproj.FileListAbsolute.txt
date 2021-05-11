@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\bin\Debug\net5.0\VETORES - 07.exe
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\bin\Debug\net5.0\VETORES - 07.deps.json
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\bin\Debug\net5.0\VETORES - 07.runtimeconfig.json
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\bin\Debug\net5.0\VETORES - 07.runtimeconfig.dev.json
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\bin\Debug\net5.0\VETORES - 07.dll
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\bin\Debug\net5.0\ref\VETORES - 07.dll
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\bin\Debug\net5.0\VETORES - 07.pdb
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.csprojAssemblyReference.cache
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.AssemblyInfo.cs
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.dll
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\ref\VETORES - 07.dll
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.pdb
+C:\Users\samue\Documents\SENAI\ATIVIDADES\10-05-2021 - EXERCICIOS DE FIXACAO\VETORES - 07\obj\Debug\net5.0\VETORES - 07.genruntimeconfig.cache
